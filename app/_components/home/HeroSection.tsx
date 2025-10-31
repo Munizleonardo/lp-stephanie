@@ -40,11 +40,11 @@ export default function HeroSection() {
 
         <div className="mt-16 grid grid-cols-1 md:grid-cols-3 gap-8 text-center animate-fade-in">
           <div>
-            <div className="text-3xl font-bold text-primary mb-2">10+</div>
+            <div className="text-3xl font-bold text-primary mb-2">3+</div>
             <div className="text-muted-foreground">Anos de experiência</div>
           </div>
           <div>
-            <div className="text-3xl font-bold text-primary mb-2">500+</div>
+            <div className="text-3xl font-bold text-primary mb-2">100+</div>
             <div className="text-muted-foreground">Pacientes atendidos</div>
           </div>
           <div>

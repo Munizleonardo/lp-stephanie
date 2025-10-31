@@ -13,7 +13,7 @@ export default function ServicesSection() {
       icon: <MapPin className="w-8 h-8 text-primary" />,
       title: "Atendimento Presencial",
       description:
-        "Consultório acolhedor localizado na Zona Sul do Rio de Janeiro. Ambiente tranquilo e privativo, pensado para você se sentir à vontade e seguro durante nossas sessões.",
+        "Consultório acolhedor localizado na Zona Norte do Rio de Janeiro. Ambiente tranquilo e privativo, pensado para você se sentir à vontade e seguro durante nossas sessões.",
       benefits: ["Zona Norte - Rio de Janeiro", "Ambiente acolhedor", "Privacidade total"],
     },
   ];
