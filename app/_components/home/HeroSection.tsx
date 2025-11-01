@@ -4,7 +4,7 @@ import { Heart } from "lucide-react";
 
 export default function HeroSection() {
   const handleWhatsAppClick = () => {
-    window.open("https://wa.me/5521999999999", "_blank");
+    window.open("https://wa.me/5521976164445", "_blank");
   };
 
   return (
@@ -18,7 +18,7 @@ export default function HeroSection() {
 
         <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-foreground mb-6 animate-fade-in">
           Encontre seu equilíbrio:<br />
-          <span className="text-primary">Terapia <span className="text-black">Online</span> e Presencial no Rio de Janeiro</span>
+          <span className="text-primary">Terapia Online e Presencial no Rio de Janeiro</span>
         </h1>
 
         <p className="text-lg md:text-xl text-muted-foreground mb-8 max-w-2xl mx-auto animate-fade-in">

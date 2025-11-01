@@ -59,7 +59,7 @@ export default function Header() {
 
         <div className="hidden md:block">
           <Button>
-            <Link href="https://wa.me/5521984508057" target="_blank">
+            <Link href="https://wa.me/5521976164445" target="_blank">
               Agendar Consulta
             </Link>
           </Button>

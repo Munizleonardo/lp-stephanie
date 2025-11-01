@@ -8,7 +8,7 @@ export default function AboutSection() {
           <div className="relative animate-fade-in">
             <div className="aspect-square rounded-2xl overflow-hidden card-hover">
               <Image
-                src="/img_steph.png"
+                src="/img_steph_2.jpg"
                 alt="Stephanie Moura - Psicóloga"
                 className="w-full h-full object-cover"
                 width={1000}
