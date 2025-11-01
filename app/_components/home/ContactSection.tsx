@@ -1,6 +1,7 @@
 "use client"
 import { Button } from "@/app/_components/ui/button";
 import { MessageCircle, Instagram, Linkedin } from "lucide-react";
+import Image from "next/image";
 
 export default function ContactSection() {
   const handleWhatsAppClick = () => {
@@ -40,12 +41,12 @@ export default function ContactSection() {
                 <Instagram className="w-5 h-5" />
               </a>
               <a
-                href="https://www.linkedin.com/in/psistephaniemouraa/?originalSubdomain=br"
+                href="https://www.tiktok.com/@psistephaniemouraa?_t=ZM-8vl1h227noz&_r=1"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-3 rounded-full bg-muted hover:bg-primary hover:text-primary-foreground transition-colors"
               >
-                <Linkedin className="w-5 h-5" />
+                <Image src="/tiktok3.jpg" alt="TikTok" width={20} height={20} />
               </a>
               
             </div>

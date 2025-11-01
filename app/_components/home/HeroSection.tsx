@@ -9,9 +9,7 @@ export default function HeroSection() {
 
   return (
     <section
-      id="inicio"
-      className="min-h-screen flex items-center justify-center pt-20 px-4"
-    >
+      id="inicio" className="min-h-screen flex items-center justify-center pt-20 px-4">
       <div className="container mx-auto text-center max-w-4xl">
         <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-primary/20 text-primary mb-6 animate-fade-in">
           <Heart className="w-4 h-4" />
@@ -20,7 +18,7 @@ export default function HeroSection() {
 
         <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-foreground mb-6 animate-fade-in">
           Encontre seu equilíbrio:<br />
-          <span className="text-primary">Terapia presencial no Rio de Janeiro e Online</span>
+          <span className="text-primary">Terapia <span className="text-black">Online</span> e Presencial no Rio de Janeiro</span>
         </h1>
 
         <p className="text-lg md:text-xl text-muted-foreground mb-8 max-w-2xl mx-auto animate-fade-in">
@@ -38,11 +36,7 @@ export default function HeroSection() {
           </Button>
         </div>
 
-        <div className="mt-16 grid grid-cols-1 md:grid-cols-3 gap-8 text-center animate-fade-in">
-          <div>
-            <div className="text-3xl font-bold text-primary mb-2">3+</div>
-            <div className="text-muted-foreground">Anos de experiência</div>
-          </div>
+        <div className="mt-16 flex flex-row items-center justify-center md:grid-cols-3 gap-8 text-center">
           <div>
             <div className="text-3xl font-bold text-primary mb-2">100+</div>
             <div className="text-muted-foreground">Pacientes atendidos</div>

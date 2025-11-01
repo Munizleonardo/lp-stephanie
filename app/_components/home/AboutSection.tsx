@@ -9,7 +9,7 @@ export default function AboutSection() {
             <div className="aspect-square rounded-2xl overflow-hidden card-hover">
               <Image
                 src="/img_steph.png"
-                alt="Dra. Ana Silva - Psicóloga"
+                alt="Stephanie Moura - Psicóloga"
                 className="w-full h-full object-cover"
                 width={1000}
                 height={1000}
