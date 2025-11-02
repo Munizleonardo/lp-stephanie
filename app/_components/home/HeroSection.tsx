@@ -38,12 +38,12 @@ export default function HeroSection() {
 
         <div className="mt-16 flex flex-row items-center justify-center md:grid-cols-3 gap-8 text-center">
           <div>
-            <div className="text-3xl font-bold text-primary mb-2">100+</div>
-            <div className="text-muted-foreground">Pacientes atendidos</div>
+            <div className="text-3xl font-bold text-primary mb-2">100%</div>
+            <div className="text-muted-foreground">Dedicação</div>
           </div>
           <div>
             <div className="text-3xl font-bold text-primary mb-2">100%</div>
-            <div className="text-muted-foreground">Dedicação e acolhimento</div>
+            <div className="text-muted-foreground">Acolhimento</div>
           </div>
         </div>
       </div>

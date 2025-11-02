@@ -1,6 +1,6 @@
 "use client"
 import { Button } from "@/app/_components/ui/button";
-import { MessageCircle, Instagram, Linkedin } from "lucide-react";
+import { MessageCircle, Instagram } from "lucide-react";
 import Image from "next/image";
 
 export default function ContactSection() {
